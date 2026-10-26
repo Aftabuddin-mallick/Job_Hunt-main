@@ -7,4 +7,4 @@
 
 User can see the job details from feature job section and apply for the preferred job. After that all applied job are shown on **Applied Jobs** section. 
 
-### Live site Link: job-hunt-main-three.vercel.app
+### Live site Link: [Live Demo](https://job-hunt-main-three.vercel.app/)
